@@ -1,4 +1,4 @@
-# 🍅 Pomodoro App - Landing Page
+#  Pomodoro App - Landing Page
 
 Uma landing page minimalista e funcional para um timer de **Pomodoro**, projetada para ajudar no foco e na gestão de tempo.
 
